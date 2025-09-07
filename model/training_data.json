@@ -1,0 +1,14 @@
+{
+    "n_games": 448,
+    "best_score": 38,
+    "epsilon": 5,
+    "algorithm_mode": "hybrid",
+    "algorithm_performance": {
+        "dqn": 12.585641060000002,
+        "a_star": 0,
+        "greedy": 0,
+        "hamiltonian": 0,
+        "wall_follower": 0
+    },
+    "timestamp": "2025-09-07T03:11:56.751562"
+}
