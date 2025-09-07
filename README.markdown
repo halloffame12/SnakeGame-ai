@@ -171,6 +171,3 @@ Ideas for contributions:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-**Happy Coding!** 🐍  
-Questions? Open an issue on GitHub or DM me on [Your Social Media]. Want to see how it works? Check out my [YouTube video](#) for a line-by-line walkthrough!
